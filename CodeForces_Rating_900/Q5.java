@@ -1,3 +1,4 @@
+//https://codeforces.com/problemset/problem/1559/A
 package CodeForces_Rating_900;
 import java.util.*;
 public class Q5 {
